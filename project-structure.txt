@@ -1,0 +1,10 @@
+YourGroupNameCOMP308Project/
+├── frontend/                 # React frontend
+│   ├── nurse-interface/     # Member 3's work
+│   └── patient-interface/   # Member 4's work
+├── backend/                 # Main backend (Member 1)
+│   ├── models/             # MongoDB models
+│   ├── graphql/            # GraphQL schemas and resolvers
+│   └── middleware/         # Auth middleware etc.
+├── ai-service/             # AI microservice (Member 2)
+└── design/                 # UI/UX assets (Member 5)
